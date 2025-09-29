@@ -135,18 +135,4 @@ aws-to-do-list-two-tier-website
 - **Monitoring & Alarms** via Amazon CloudWatch for EC2 health, RDS metrics, and application logs.
 - **Cost Optimization** with reserved instances or savings plans for RDS.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
----
-
-## Author
-**Patrick Heese**  
-Cloud Administrator | Aspiring Cloud Engineer/Architect  
-[LinkedIn Profile](https://www.linkedin.com/in/patrick-heese/) | [GitHub Profile](https://github.com/patrick-heese)
-
-## Acknowledgments
-This project was inspired by a course from [techwithlucy](https://github.com/techwithlucy).  
-The Todo-Two-Tier application code is taken directly from the author's original implementation.  
-The architecture diagram included here is my own version, adapted from the original course diagram.  
-I designed and developed all Infrastructure-as-Code (CloudFormation, SAM, Terraform) and project documentation.  
